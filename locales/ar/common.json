@@ -1,0 +1,17 @@
+{
+  "navbar": {
+    "demoOnly": "عرض تجريبي فقط",
+    "demoDesc": "عرض لأغراض توضيحية فقط",
+    "notAffiliated": "غير تابع لشركة إنتل ولا معتمد منها. جميع العلامات التجارية تخص أصحابها.",
+    "signIn": "تسجيل الدخول",
+    "currentLanguage": "العربية",
+    "searchPlaceholder": "ابحث في Intel.com",
+    "selectLanguage": "اختر لغتك"
+  },
+  "footer": {
+    "privacy": "الخصوصية",
+    "terms": "شروط الاستخدام",
+    "contact": "اتصل بنا",
+    "copyright": "© {{year}} شركة إنتل (عرض توضيحي). جميع الحقوق محفوظة."
+  }
+}

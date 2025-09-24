@@ -1,0 +1,17 @@
+{
+  "navbar": {
+    "demoOnly": "Demo Only",
+    "demoDesc": "Demo for illustrative purposes only",
+    "notAffiliated": "Not affiliated with or endorsed by Intel Corporation. All trademarks belong to their respective owners.",
+    "signIn": "Sign In",
+    "currentLanguage": "English",
+    "searchPlaceholder": "Search Intel.com",
+    "selectLanguage": "Select Your Language"
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "terms": "Terms of Use",
+    "contact": "Contact",
+    "copyright": "© {{year}} Intel Corporation (Demo). All rights reserved."
+  }
+}
