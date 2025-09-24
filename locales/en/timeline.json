@@ -1,0 +1,60 @@
+{
+  "timeline": {
+    "events": [
+      {
+        "year": "1968",
+        "title": "Intel Founded",
+        "img": "timeline/1968.png",
+        "desc": "Robert Noyce and Gordon Moore rename the newly formed company NM Electronics to Intel Corporation, laying the foundation for decades of technological innovation."
+      },
+      {
+        "year": "1971",
+        "title": "First Microprocessor",
+        "img": "timeline/1971.png",
+        "desc": "Intel debuts the 4004, the world's first commercial microprocessor, igniting the microprocessor revolution and propelling the future of computing devices."
+      },
+      {
+        "year": "1978",
+        "title": "8086 Processor",
+        "img": "timeline/1978.png",
+        "desc": "Launch of the 8086 processor, establishing the x86 architecture that drives countless PCs and servers in the modern era."
+      },
+      {
+        "year": "1985",
+        "title": "386 Processor",
+        "img": "timeline/1985.png",
+        "desc": "Intel introduces the 386 processor with 32-bit architecture, ushering in a new era of performance and multitasking for personal computers."
+      },
+      {
+        "year": "2006",
+        "title": "Peak GHG Emissions",
+        "img": "timeline/2006.png",
+        "desc": "This year marks Intel's highest annual greenhouse gas emissions for operations. Over subsequent years, Intel invests heavily in chemical abatement, renewable energy, and energy-efficient manufacturing to reverse this trend."
+      },
+      {
+        "year": "2020",
+        "title": "RISE Strategy",
+        "img": "timeline/2020.png",
+        "desc": "Intel launches its RISE (Responsible, Inclusive, Sustainable, Enabling) strategy and 2030 goals, aiming to drive industry-wide progress on climate action, water stewardship, and waste reduction."
+      },
+      {
+        "year": "2022",
+        "title": "Net-Zero By 2040",
+        "img": "timeline/2022.png",
+        "desc": "Intel announces its commitment to achieve net-zero greenhouse gas emissions (Scope 1 and 2) across its global operations by 2040, building on years of environmental initiatives."
+      },
+      {
+        "year": "2023",
+        "title": "Renewable Electricity",
+        "img": "timeline/2023.png",
+        "desc": "The company achieves 99% renewable electricity usage worldwide, helping to drastically lower carbon emissions and driving progress toward Intel's long-term sustainability goals."
+      },
+      {
+        "year": "2024",
+        "title": "Sustainability Summit",
+        "img": "timeline/2024.png",
+        "desc": "Intel hosts its first Sustainability Summit, uniting suppliers, government officials, and industry leaders to collaborate on next-generation sustainable semiconductor manufacturing."
+      }
+    ]
+  }
+}
