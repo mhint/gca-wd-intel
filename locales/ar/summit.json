@@ -1,0 +1,156 @@
+{
+  "teams": {
+    "water": "فريق ترشيد المياه",
+    "netzero": "فريق الحياد الكربوني",
+    "renewables": "فريق الطاقة المتجددة"
+  },
+  "hero": {
+    "title": "قمة استدامة الفرق",
+    "subtitle": "نظام تسجيل حضور لمشاركي فعالية الاستدامة"
+  },
+  "tasks": {
+    "title": "مهام الاستدامة اليومية",
+    "subtitle": "تابِع إجراءات بسيطة صديقة للبيئة أثناء الفعالية. يتم حفظ تقدمك محليًا.",
+    "pointsProgressLabel": "{{points}} / {{goal}} نقطة",
+    "congrats": "لقد حققت هدفك اليومي وهو {{goal}} نقطة — عمل رائع!",
+    "reset": "إعادة تعيين لليوم",
+    "categories": {
+      "waste": "النفايات وإعادة الاستخدام",
+      "energy": "الطاقة",
+      "water": "المياه",
+      "food": "الغذاء",
+      "transport": "النقل والحركة",
+      "community": "المجتمع"
+    },
+    "items": [
+      {
+        "key": "bringBottle",
+        "label": "احمل زجاجة ماء أو كوبًا قابلاً لإعادة الاستخدام",
+        "points": 5,
+        "category": "waste"
+      },
+      {
+        "key": "reuseKit",
+        "label": "استخدم حقيبة/أدوات/مناديل قابلة لإعادة الاستخدام",
+        "points": 5,
+        "category": "waste"
+      },
+      {
+        "key": "recycleRight",
+        "label": "فرز المواد المعاد تدويرها بشكل صحيح اليوم",
+        "points": 5,
+        "category": "waste"
+      },
+      {
+        "key": "compost",
+        "label": "حوّل بقايا الطعام إلى سماد",
+        "points": 6,
+        "category": "waste"
+      },
+      {
+        "key": "lightsOff",
+        "label": "أطفئ الأنوار عند مغادرة الغرفة",
+        "points": 4,
+        "category": "energy"
+      },
+      {
+        "key": "sleepDevices",
+        "label": "اجعل الأجهزة في وضع السكون عند الابتعاد 30+ دقيقة",
+        "points": 4,
+        "category": "energy"
+      },
+      {
+        "key": "stripOff",
+        "label": "أطفئ شريط/مقبس الطاقة طوال الليل",
+        "points": 6,
+        "category": "energy"
+      },
+      {
+        "key": "thermostatNudge",
+        "label": "اضبط منظم الحرارة بمقدار 2–4°ف لتحسين الكفاءة",
+        "points": 6,
+        "category": "energy"
+      },
+      {
+        "key": "shortShower",
+        "label": "اجعل مدة الاستحمام 5 دقائق أو أقل",
+        "points": 6,
+        "category": "water"
+      },
+      {
+        "key": "fullLoads",
+        "label": "شغّل غسالة الصحون عندما تكون ممتلئة فقط اليوم",
+        "points": 5,
+        "category": "water"
+      },
+      {
+        "key": "plantMeal",
+        "label": "تناول وجبة نباتية واحدة",
+        "points": 7,
+        "category": "food"
+      },
+      {
+        "key": "noFoodWaste",
+        "label": "أنهِ بقايا الطعام / تجنّب هدر الطعام",
+        "points": 5,
+        "category": "food"
+      },
+      {
+        "key": "reusableLunch",
+        "label": "أحضر الغداء في وعاء قابل لإعادة الاستخدام",
+        "points": 5,
+        "category": "food"
+      },
+      {
+        "key": "activeErrand",
+        "label": "امشِ/استخدم الدراجة لمشوار أو اصعد السلالم",
+        "points": 6,
+        "category": "transport"
+      },
+      {
+        "key": "skipCarTrip",
+        "label": "استخدم النقل العام/التشاركي أو تجنّب رحلة بالسيارة",
+        "points": 8,
+        "category": "transport"
+      },
+      {
+        "key": "litterPick",
+        "label": "التقط 5 قطع قمامة وتخلّص منها بصورة مناسبة",
+        "points": 4,
+        "category": "community"
+      },
+      {
+        "key": "refuseSingleUse",
+        "label": "ارفض عنصرًا أحادي الاستخدام اليوم",
+        "points": 4,
+        "category": "community"
+      }
+    ]
+  },
+  "checkin": {
+    "welcome": "مرحبًا، {{name}}! يسرُّ {{team}} حضورك!"
+  },
+  "stats": {
+    "attendance": "الحضور",
+    "loading": "جارٍ تحميل إحصاءات الفريق…",
+    "error": "تعذر تحميل الإحصاءات: {{msg}}"
+  },
+  "form": {
+    "title": "تسجيل الحضور",
+    "namePlaceholder": "أدخل الاسم…",
+    "teamPlaceholder": "اختر الفريق…",
+    "checkIn": "تسجيل ✔︎",
+    "saving": "جارٍ الحفظ…",
+    "nameAria": "اسم المشارك",
+    "teamAria": "اختيار الفريق"
+  },
+  "misc": {
+    "showAttendees": "عرض المشاركين",
+    "loadingStats": "جارٍ التحميل…",
+    "errorPrefix": "خطأ:"
+  },
+  "a11y": {
+    "attendees": "المشاركون",
+    "close": "إغلاق"
+  }
+}
