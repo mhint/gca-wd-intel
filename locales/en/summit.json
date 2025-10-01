@@ -1,0 +1,63 @@
+{
+  "teams": {
+    "title": "Team Attendance",
+    "water": "Team Water Wise",
+    "netzero": "Team Net Zero",
+    "renewables": "Team Renewables"
+  },
+  "hero": {
+    "title": "Team Sustainability Summit",
+    "subtitle": "Check-in system for sustainability event attendees"
+  },
+  "tabs": {
+    "tasks": "Daily Sustainability Tasks",
+    "checkin": "Check-In",
+    "stats": "Team Stats"
+  },
+  "tasks": {
+    "title": "Daily Sustainability Tasks",
+    "subtitle": "Track simple eco-friendly actions during the event. Your progress is saved locally.",
+    "completedLabel": "Sustainability tasks completed: {{count}}",
+    "completeFirst": "Complete first task",
+    "completeAnother": "Complete another task",
+    "reset": "Reset"
+  },
+  "checkin": {
+    "title": "Attendee Check-In",
+    "subtitle": "Welcome to the Team Sustainability Summit! Please check in below.",
+    "welcome": "Welcome, {{name}}! {{team}} is glad you're here.",
+    "alreadyCheckedIn": "You have already checked in.",
+    "notCheckedIn": "You are not checked in.",
+    "lastCheckedIn": "Last checked in: {{time}}"
+  },
+  "stats": {
+    "attendance": "Attendance",
+    "loading": "Loading team stats…",
+    "error": "Could not load stats: {{msg}}"
+  },
+  "form": {
+    "title": "Attendee Check-In",
+    "namePlaceholder": "Enter name…",
+    "teamPlaceholder": "Select Team…",
+    "checkIn": "✔︎ Check In",
+    "saving": "Saving…",
+    "nameAria": "Attendee name",
+    "teamAria": "Select team",
+    "errors": {
+      "nameRequired": "Name is required",
+      "teamRequired": "Team is required"
+    }
+  },
+
+  "misc": {
+    "showAttendees": "Show attendees",
+    "loadingStats": "Loading…",
+    "errorPrefix": "Error:",
+    "retry": "Retry",
+    "refresh": "Refresh"
+  },
+  "a11y": {
+    "attendees": "attendees",
+    "close": "Close"
+  }
+}
