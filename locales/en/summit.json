@@ -10,8 +10,8 @@
     "subtitle": "Check-in system for sustainability event attendees"
   },
   "tabs": {
-    "tasks": "Sustainability Tasks",
-    "checkin": "Attendee Check-In"
+    "tasks": "Daily Sustainability Tasks",
+    "checkin": "Teams & Check-In"
   },
   "tasks": {
     "title": "Daily Sustainability Tasks",
