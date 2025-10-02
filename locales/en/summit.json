@@ -9,6 +9,10 @@
     "title": "Team Sustainability Summit",
     "subtitle": "Check-in system for sustainability event attendees"
   },
+  "tabs": {
+    "tasks": "Sustainability Tasks",
+    "checkin": "Attendee Check-In"
+  },
   "tasks": {
     "title": "Daily Sustainability Tasks",
     "subtitle": "Track simple eco-friendly actions during the event. Your progress is saved locally.",
