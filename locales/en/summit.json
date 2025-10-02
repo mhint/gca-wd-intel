@@ -141,13 +141,14 @@
     "title": "Attendee Check-In",
     "namePlaceholder": "Enter name…",
     "teamPlaceholder": "Select Team…",
-    "checkIn": "✔︎ Check In",
+    "checkIn": "Check In",
     "saving": "Saving…",
     "nameAria": "Attendee name",
     "teamAria": "Select team"
   },
   "misc": {
     "showAttendees": "Show attendees",
+    "hideAttendees": "Hide attendees",
     "loadingStats": "Loading…",
     "errorPrefix": "Error:"
   },

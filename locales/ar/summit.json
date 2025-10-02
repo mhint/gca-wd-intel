@@ -139,13 +139,14 @@
     "title": "تسجيل الحضور",
     "namePlaceholder": "أدخل الاسم…",
     "teamPlaceholder": "اختر الفريق…",
-    "checkIn": "تسجيل ✔︎",
+    "checkIn": "تسجيل",
     "saving": "جارٍ الحفظ…",
     "nameAria": "اسم المشارك",
     "teamAria": "اختيار الفريق"
   },
   "misc": {
     "showAttendees": "عرض المشاركين",
+    "hideAttendees": "إخفاء المشاركين",
     "loadingStats": "جارٍ التحميل…",
     "errorPrefix": "خطأ:"
   },
